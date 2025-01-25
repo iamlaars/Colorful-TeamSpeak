@@ -302,3 +302,9 @@ div.tsv-window :is(.tsv-server-info-settings, .tsv-server-settings-advanced) .ts
 .ts-parsed-text-content .spoiler:not([visible]) {
     background-color: #ACADB1 !important;
 }
+
+/* ADBLOCK */
+
+.ts-.ts-join-community .tsv-button-filled {
+    display: none;
+  }
