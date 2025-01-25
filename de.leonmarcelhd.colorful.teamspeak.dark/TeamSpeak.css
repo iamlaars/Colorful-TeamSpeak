@@ -351,3 +351,8 @@ strong {
 .ts-parsed-text-content .spoiler:not([visible]) {
   background-color: #acadb1 !important;
 }
+/* ADBLOCK */
+
+.ts-.ts-join-community .tsv-button-filled {
+  display: none;
+}
